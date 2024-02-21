@@ -1,7 +1,5 @@
 export const style = {
-  aythdefault7xyt2q: {
-    display: "flex",
-    backgroundColor: "#808080",
+  aythdefaulthykg2f: {
     position: 'relative',
     top: 0,
     left: 0,

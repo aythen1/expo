@@ -6,7 +6,7 @@ import { View } from "react-native";
 export default function Default0() {
   
   return (
-  <View style={styles.aythdefault7xyt2q}><StatusBar style="auto"
+  <View style={styles.aythdefaulthykg2f}><StatusBar style="auto"
   />
 </View>
 
